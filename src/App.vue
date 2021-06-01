@@ -21,5 +21,6 @@ export default {
     margin: 0;
     padding: 0;
     min-width: 320px;
+    font-family: 'Ubuntu', sans-serif;
   }
 </style>

@@ -20,7 +20,9 @@
 <style lang="scss" scoped>
   $blue: #1a535c;
   $yellow: #ffe66d;
+  $white: #F7FFF7;
   .footer{
+    color: $white;
     background-color: $blue;
     &__inner{
       padding: 10px 0px;
